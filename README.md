@@ -1,5 +1,5 @@
 Evolutionary Algorithm for Traveling Salesman Problem (TSP) with Graph Visualization
-This project implements an Evolutionary Algorithm (EA) to solve the Traveling Salesman Problem (TSP), utilizing XML files that contain graph representations of various city maps. The project also includes visualizations of the cities and their connections using NetworkX and Matplotlib. The dataset includes two example XML files: burma14.xml and brazil58.xml.
+This project implements an Evolutionary Algorithm (EA) to solve the Traveling Salesman Problem (TSP), utilizing XML files that contain graph representations of various city maps. The project also includes visualizations of the cities and their connections using NetworkX and Matplotlib. 
 
 Features
 Graph Parsing: Reads the XML file representing cities and distances between them and constructs a graph using NetworkX.
